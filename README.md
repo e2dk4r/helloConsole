@@ -23,3 +23,4 @@ Visual Studio
   - `scoop install mingit`
   - `scoop bucket add extras`
   - `scoop install llvm`
+  - `scoop install rizin` for debugging in console (`scoop install cutter` for gui)
